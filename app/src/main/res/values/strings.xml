@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="info_option">Info</string>
+    <string name="add_option">Add</string>
+    <string name="note_json_file">Note.json</string>
+    <string name="save_option">Save</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_text_hint">Note Text</string>
+    <string name="about_title">Android Notes</string>
+    <string name="about_author">Ⓒ 2021, My Dinh</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_activity_background">About activity background</string>
+</resources>
